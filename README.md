@@ -1,6 +1,6 @@
 # flutter_json_example
 
-A new Flutter project.
+Example to parse and use JSON file with Flutter app.
 
 ## Getting Started
 
