@@ -7,12 +7,6 @@ class SampleModel {
   String id;
   String name;
 
-  @override
-  String toString() {
-    String tostring = "${this.id}¥n${this.name}¥n";
-    return tostring;
-  }
-
   factory SampleModel.fromJson(Map<String, dynamic> json) =>
       _$SampleModelFromJson(json);
 
